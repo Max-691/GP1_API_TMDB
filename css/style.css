@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    background:rgb(97, 97, 97)
+}
+ul{
+    padding: 0;
+    list-style: none;
+    margin: 0%;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 10rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
